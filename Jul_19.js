@@ -1,4 +1,3 @@
-//-----------------------------------------
 // check to see if a word is a palindrome
 const strng = "Hello";
 const strng2 = "maam";
@@ -28,4 +27,3 @@ function remover(array) {
 }
 
 console.log(remover(toRemove));
-//-----------------------------------------

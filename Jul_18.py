@@ -1,4 +1,3 @@
-#------------------------------------
 # takes in a number and lets the user guess the number till they get it right.abs
 
 import random
@@ -16,4 +15,3 @@ def guess():
     guess()
 
 guess()
-#------------------------------------
